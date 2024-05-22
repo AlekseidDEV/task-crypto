@@ -1,0 +1,174 @@
+{
+  "posts": [
+    {
+      "title": "Travel Tips1",
+      "description": "Top travel tips for your next vacation adventure.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Healthy Life",
+      "description": "Living a healthy life with balanced nutrition."
+    },
+    {
+      "id": 5,
+      "title": "Finance 101",
+      "description": "Understanding the basics of personal finance."
+    },
+    {
+      "title": "Coding Fun12",
+      "description": "Tips and tricks to make coding more enjoyable.",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Art & Craft",
+      "description": "Discover new art and craft ideas to try at home."
+    },
+    {
+      "id": 8,
+      "title": "Home Decor",
+      "description": "Simple home decor tips to refresh your space."
+    },
+    {
+      "id": 9,
+      "title": "Foodie Love",
+      "description": "Delicious recipes for food lovers around the world."
+    },
+    {
+      "id": 10,
+      "title": "Pet Care",
+      "description": "Essential tips for taking care of your pets."
+    },
+    {
+      "id": 11,
+      "title": "Fashion Now",
+      "description": "Latest fashion trends to follow this season."
+    },
+    {
+      "id": 12,
+      "title": "Music Beats",
+      "description": "Top music beats you should listen to right now."
+    },
+    {
+      "id": 13,
+      "title": "Book Worm",
+      "description": "Must-read books for every book lover out there."
+    },
+    {
+      "id": 14,
+      "title": "Fitness Pro",
+      "description": "Fitness routines to get you in shape quickly."
+    },
+    {
+      "id": 15,
+      "title": "Gardening 101",
+      "description": "Basics of gardening for beginners and enthusiasts."
+    },
+    {
+      "id": 16,
+      "title": "Mindfulness",
+      "description": "Practicing mindfulness in daily life."
+    },
+    {
+      "id": 17,
+      "title": "Career Tips",
+      "description": "Professional tips to boost your career growth."
+    },
+    {
+      "id": 18,
+      "title": "Tech Gadgets",
+      "description": "Latest tech gadgets that are worth your attention."
+    },
+    {
+      "id": 19,
+      "title": "Eco Living",
+      "description": "Living an eco-friendly lifestyle every day."
+    },
+    {
+      "id": 20,
+      "title": "DIY Projects",
+      "description": "Fun DIY projects to try at home this weekend."
+    },
+    {
+      "id": 21,
+      "title": "Photography",
+      "description": "Tips to improve your photography skills."
+    },
+    {
+      "id": 22,
+      "title": "Auto Trends",
+      "description": "Latest trends in the automotive industry."
+    },
+    {
+      "id": 23,
+      "title": "Space Wonders",
+      "description": "Amazing facts about space and the universe."
+    },
+    {
+      "id": 24,
+      "title": "Movie Buff",
+      "description": "Must-watch movies for every movie enthusiast."
+    },
+    {
+      "id": 25,
+      "title": "Gaming News",
+      "description": "Latest news in the world of gaming."
+    },
+    {
+      "id": 26,
+      "title": "Fitness Gear",
+      "description": "Best fitness gear to enhance your workouts."
+    },
+    {
+      "id": 27,
+      "title": "Cooking Fun",
+      "description": "Fun cooking recipes for everyone to try."
+    },
+    {
+      "id": 28,
+      "title": "Adventure",
+      "description": "Top adventure activities to try this year."
+    },
+    {
+      "id": 29,
+      "title": "Yoga Basics",
+      "description": "Basic yoga poses for beginners."
+    },
+    {
+      "id": 30,
+      "title": "History Facts",
+      "description": "Interesting historical facts you should know."
+    },
+    {
+      "id": 31,
+      "title": "Coding Boot",
+      "description": "Best coding bootcamps to learn programming."
+    },
+    {
+      "id": 33,
+      "title": "Mind Games",
+      "description": "Challenging mind games to boost your brainpower."
+    },
+    {
+      "id": 34,
+      "title": "Travel Spots",
+      "description": "Top travel spots to visit in your lifetime."
+    },
+    {
+      "id": 35,
+      "title": "Startup Hub",
+      "description": "Startup tips and advice for entrepreneurs."
+    },
+    {
+      "id": 36,
+      "title": "Music Vibes",
+      "description": "Best music vibes to relax and unwind."
+    },
+    {
+      "title": "Test post 1",
+      "description": "1",
+      "id": 37
+    }
+  ]
+}
